@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Prework Study Guide Webpage
 
 ## Description
@@ -15,7 +15,7 @@ this is a website to students of the bootcamp to study not just now but later do
 
 ## Credits
 
-=======
+
 # <prework study guide>
 
 ## Description
@@ -57,7 +57,7 @@ N/A
 
 <<<<<<< HEAD
 MIT license
-=======
+
 The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/). 
 MIT licesnse
 
@@ -82,4 +82,4 @@ If you created an application or package and would like other developers to cont
 ## Tests
 
 Go the extra mile and write tests for your application. Then provide examples on how to run them here.
->>>>>>> c7e875dfd74598702ac7a585e98159102276b444
+
