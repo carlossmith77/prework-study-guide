@@ -5,7 +5,7 @@
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 - What was your motivation? to create a study guide website to help me through the course 
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.") so i could have a resource i could come back to for this course 
+- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.") so i could have a resource i could come back to throught this course
 - What problem does it solve? it helps stream line studiying by putting alot of information into one place 
 - What did you learn? i learned the basics of git,HTML,CSS, and JS
 
